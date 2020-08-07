@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second Post"
+title:  "surveySlide IDEA"
 date:   2020-07-30 05:24:16 +0900
 categories: jekyll update
 ---
@@ -154,7 +154,7 @@ categories: jekyll update
 
 ### 캐시슬라이드
 
-<img src="/img/img6.png" style="zoom:33%;" align="left"/>
+![](/img/img6.png) 
 
 - 인터페이스를 유사하게!
 - 광고 수익을 사용자에게 분배 -> 설문 수익을 사용자에게 분배
